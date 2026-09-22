@@ -1,0 +1,41 @@
+| Priority | Command                            | Purpose                                  |
+| -------: | ---------------------------------- | ---------------------------------------- |
+|      1 ⭐ | `git status`                       | Check the current repository state       |
+|      2 ⭐ | `git add .`                        | Stage all changes                        |
+|      3 ⭐ | `git add testing.py`               | Stage a specific file                    |
+|      4 ⭐ | `git commit -m "Testing.py added"` | Create a commit                          |
+|      5 ⭐ | `git restore testing.py`           | Discard uncommitted changes to a file    |
+|        6 | `git rm --cached testing.py`       | Stop tracking a file but keep it locally |
+|        7 | `git rm testing.py`                | Delete the file and stage its deletion   |
+|        8 | `git init`                         | Initialize a Git repository              |
+|        9 | `git log --oneline`                | View commit history                      |
+|       10 | `git diff`                         | View unstaged changes                    |
+|       11 | `git diff --staged`                | View staged changes                      |
+|       12 | `git branch`                       | View local branches                      |
+|       13 | `git switch <branch>`              | Switch branches                          |
+|       14 | `git switch -c <branch>`           | Create and switch to a new branch        |
+|       15 | `git merge <branch>`               | Merge a branch                           |
+|       16 | `git remote -v`                    | Vclear
+iew GitHub/remote connections           |
+|       17 | `git pull`                         | Download and integrate remote changes    |
+|       18 | `git push`                         | Upload commits to the remote repository  |
+|       19 | `git clone <url>`                  | Copy an existing remote repository       |
+|       20 | `clear`                            | Clear PowerShell screen 
+
+  30 git remote -v                                                                   
+  31 git branch -M main                                                              
+  32 git push -u origin master                                                       
+  33 clear                                                                           
+  34 git remote -v                                                                   
+
+  36 git push -u origin master                                                       
+  37 clear                                                                           
+  38 git remote -v                                                                   
+  39 git push origin master                                                          
+  40 git push origin Master                                                          
+  41 git status                                                                      
+  42 clear                                                                           
+  43 git push origin main                                                            
+  44 git status                                                                      
+  45 git history                                                                     
+                 |
